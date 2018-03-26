@@ -1,0 +1,26 @@
+body {
+background-color: #5D6D7E;
+}
+img {
+  border-width: 6px; border-color:#E6B0AA; border-style: ridge;
+}
+p {
+  font-family: 'Amita', cursive; color:#E6B0AA;
+
+  }
+a:hover {
+    background-color: #E6B0AA;
+}
+td {
+    font-family: 'Amita', cursive; color:#E6B0AA;
+
+}
+li {
+  font-family: 'Amita', cursive; color:#E6B0AA;
+}
+h1 {
+  font-family: 'Amita', cursive; color:#E6B0AA; font-size: 40px; border-style: ridge; border-width: 6px; border-color: #E6B0AA;
+}
+#mad{
+  display:none;
+}

@@ -8,15 +8,20 @@ p {
   font-family: 'Amita', cursive; color:#E6B0AA;
 
   }
+a:link {
+    color: #DAF7A6;
+}
+a:vistited {
+  color:#FFC300;
+}
 a:hover {
     background-color: #E6B0AA;
 }
-a:vistited {
-  background-color: #E6B0AA
-
+a:active {
+    color: #5D6D7E;
 }
 td {
-    font-family: 'Amita', cursive; color:#E6B0AA; font-size: 20px
+    font-family: 'Amita', cursive; font-size: 20px; padding: 25px;
 
 }
 li {
@@ -27,7 +32,4 @@ h1 {
 }
 #mad{
   display:none;
-}
-td {
-  padding: 10px
 }

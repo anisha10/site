@@ -13,10 +13,10 @@ a:hover {
 }
 a:vistited {
   background-color: #E6B0AA
-  
+
 }
 td {
-    font-family: 'Amita', cursive; color:#E6B0AA;
+    font-family: 'Amita', cursive; color:#E6B0AA; font-size: 20px
 
 }
 li {
@@ -27,4 +27,7 @@ h1 {
 }
 #mad{
   display:none;
+}
+td {
+  padding: 10px
 }

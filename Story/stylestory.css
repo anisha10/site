@@ -11,6 +11,10 @@ p {
 a:hover {
     background-color: #E6B0AA;
 }
+a:vistited {
+  background-color: #E6B0AA
+  
+}
 td {
     font-family: 'Amita', cursive; color:#E6B0AA;
 

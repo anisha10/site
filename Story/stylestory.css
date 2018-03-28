@@ -11,8 +11,8 @@ p {
 a:link {
     color: #DAF7A6;
 }
-a:vistited {
-  color:#FFC300;
+a:visited {
+  color:#14A989;
 }
 a:hover {
     background-color: #E6B0AA;
@@ -21,7 +21,7 @@ a:active {
     color: #5D6D7E;
 }
 td {
-    font-family: 'Amita', cursive; font-size: 20px; padding: 25px;
+    font-family: 'Amita', cursive; font-size: 25px; padding: 25px;
 }
 tr{
   padding:25px;

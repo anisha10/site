@@ -22,7 +22,9 @@ a:active {
 }
 td {
     font-family: 'Amita', cursive; font-size: 20px; padding: 25px;
-
+}
+tr{
+  padding:25px;
 }
 li {
   font-family: 'Amita', cursive; color:#E6B0AA;

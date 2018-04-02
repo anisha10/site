@@ -2,7 +2,7 @@ body {
 background-color: #f5f5dc;
 }
 img {
-  border: 6px solid purple;
+  border: 6px; color:#736AF6;
 }
 li {
   font-family: 'Indie Flower', cursive; color:#736AF6;

@@ -1,22 +1,23 @@
 body {
-background-color: #f5f5dc;
-}
-img {
-  border: 6px; color:#736AF6;
+background-color: #D0FAEE;
 }
 li {
-  font-family: 'Indie Flower', cursive; color:#736AF6;
+  font-family: 'Indie Flower', cursive; color:#E27D60;
 }
 p {
-  font-family: 'Lobster', cursive; color:#736AF6;
+  font-family: 'Lobster', cursive; color:#14B3a3;
 
   }
 
 h1 {
-  font-family: 'Lobster', cursive; color:#736AF6;
+  font-family: 'Lobster', cursive; color:#E8a87C;
 }
 h2 {
-  font-family: 'Lobster', cursive; color:#736AF6;
+  font-family: 'Lobster', cursive; color:#E8a87C;
+}
+h5{
+font-family: 'Lobster', cursive; color:#E8a87C;
+
 }
 a:hover {
     background-color: #736AF6;
@@ -24,4 +25,16 @@ a:hover {
 .largelink
 {
   font-size: 20pt;
+}
+a:link {
+    color: #C38D9E;
+}
+a:visited {
+  color:#14A989;
+}
+a:hover {
+    background-color: #C38D9E;
+}
+a:active {
+    color: #5D6D7E;
 }

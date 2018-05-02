@@ -1,0 +1,39 @@
+body {
+background-color: #C2CAD0;
+}
+p {
+  font-family: 'Amita', cursive; color:#7E685A; font-size: 20px;
+  }
+a:link {
+    color: #7E685A;
+}
+a:visited {
+  color:#7E685A;
+}
+a:hover {
+    background-color: #AFD275;
+}
+a:active {
+    color: #7E685A;
+}
+td {
+    font-family: 'Amita', cursive; font-size: 25px;
+}
+tr{
+  padding:25px;
+}
+li {
+  font-family: 'Amita', cursive; color:#E6B0AA;
+}
+h1 {
+  font-family: 'Amita', cursive; color:#E7717D; font-size: 40px;
+}
+label {
+  font-family: 'Amita', cursive;color:#E7717D; font-size: 25px;
+}
+legend {
+  font-family: 'Amita', cursive;color:#E7717D; font-size: 25px;
+}
+div {
+  font-family: 'Amita', cursive;color:#E7717D; font-size: 25px;
+}
